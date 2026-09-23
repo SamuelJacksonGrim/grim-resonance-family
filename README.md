@@ -5,5 +5,13 @@
 [![CI](https://github.com/SamuelJacksonGrim/grim-resonance-family/actions/workflows/python-app.yml/badge.svg)](https://github.com/SamuelJacksonGrim/grim-resonance-family/actions/workflows/python-app.yml)
 [![Python](https://img.shields.io/badge/python-%3E%3D3.10-3776AB?logo=python&logoColor=white)](https://www.python.org)
 
+## License
 
-Dual-licensed: [AGPL-3.0-only](LICENSE) or a [commercial license](LICENSING.md).
+This project is dual-licensed under **AGPL-3.0-only** OR a commercial license.
+
+- [LICENSE](LICENSE) — GNU AGPL-3.0-only (the free track)
+- [LICENSING.md](LICENSING.md) — how the two tracks work
+- [COMMERCIAL-LICENSE.md](COMMERCIAL-LICENSE.md) — the commercial agreement
+- [NOTICE](NOTICE) — copyright, SPDX identifier, and provenance
+
+
